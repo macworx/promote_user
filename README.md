@@ -1,7 +1,9 @@
 # promote_user
+These scripts can be used to promote a regular Mac user to an admin user and vice versa.
+Usage as follows:
 
-# Promote a regular Mac user account to an admin account:
+# Promotion:
 host$ sudo promote_user.sh <USERNAME>
 
-# Demote an admin user account to a regular user account:
+# Demotion:
 host$ sudo demote_user.sh <USERNAME>
